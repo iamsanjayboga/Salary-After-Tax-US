@@ -1,0 +1,2 @@
+module SalaryAfterTax_Calculator {
+}
